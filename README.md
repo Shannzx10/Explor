@@ -46,7 +46,7 @@ python2 explor.py
 ```
 sudo apt install git
 git clone https://github.com/Shannzx10/Explor
-cd Dosaa
+cd Explor
 chmod +x *
 python2 explor.py
 ```
